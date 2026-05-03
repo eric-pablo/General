@@ -1,0 +1,2 @@
+**Primary branch for M365 stack automation and general-purpose engineering content.**
+This branch serves as the central baseline for Microsoft 365–focused automation, including PowerShell scripts, Intune and Entra ID configurations, device and application lifecycle automation, policy-as-code, reporting, and operational tooling. It is used for experimentation, proof‑of‑concepts, reusable modules, and reference implementations that are not yet aligned to a specific workload, project, or release but may later be promoted to dedicated repositories or feature branches.
